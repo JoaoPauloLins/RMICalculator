@@ -8,7 +8,7 @@ public class CalculatorServer {
 	
 	public static void main(String args[]) {
 		
-		int port = 9090;
+		int port = 1099;
 		
 		try {
 			Calculator calculator = new CalculatorImpl();
